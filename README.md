@@ -9,3 +9,6 @@
 4. yolov7-tiny.onnx : weight file for Yolov7 network model based on the onnx transformation.
 5. GPU Usage: We recommend to use nVida GPU, otherwise it will be very slow.
 6. How use this program?
+
+# 추가 수업 자료 : https://github.com/HumanSignal/labelImg#usage/
+-> 라벨링 작업 / gui 창 수업
